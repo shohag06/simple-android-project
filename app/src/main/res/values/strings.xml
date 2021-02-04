@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Test Aplication</string>
+    <string name="text_data">hello android, i am shohag, i am form Rajshahi,
+        i love my father and mother"</string>
 </resources>
