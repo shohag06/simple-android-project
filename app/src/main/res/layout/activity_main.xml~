@@ -21,8 +21,7 @@
         android:layout_height="wrap_content"
         android:src="@drawable/myimage"
         android:scaleType="centerCrop"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
+        android:padding="20dp"
         />
 
 
